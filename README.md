@@ -4,4 +4,4 @@ Mi primer repositorio
 
 my first repository 💻 ☕
 
-Editando mi repositorio 👨‍💻
+Actividad 2: Editando mi repositorio 👨‍💻
